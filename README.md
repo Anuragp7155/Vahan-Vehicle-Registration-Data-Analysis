@@ -40,8 +40,39 @@ The project transforms vehicle-registration data into actionable insights throug
 
 ---
 
-##Dashboard
-https://github.com/https://github.com/Anuragp7155/Vahan-Vehicle-Registration-Data-Analysis/blob/main/page1_fleet_overview.png?raw=true
+# 📊 Power BI Dashboard
+
+The project includes two interactive Power BI dashboard pages designed to provide a clear view of vehicle fleet composition and emission-related characteristics.
+
+## 📄 Page 1 — Fleet Overview
+
+![Vahan Fleet Overview Dashboard](page1_fleet_overview.png)
+
+This page provides an overview of:
+- Total registered vehicles
+- 2W and 4W vehicles
+- EV vehicles
+- Average vehicle age
+- Registration trends
+- Vehicle categories
+- Top manufacturers
+- Leading states
+
+---
+
+## 📄 Page 2 — Emission Profile
+
+![Vahan Emission Profile Dashboard](page2_emission_profile.png)
+
+This page focuses on:
+- BS6 and BS4 vehicle counts
+- EV vehicles
+- Average ICE engine CC
+- Emission norms by year
+- Fuel × Emission Norm
+- Vehicle age groups
+- Vehicle category × emission norm
+- Engine size distribution
 
 ## 🔄 Project Workflow
 
