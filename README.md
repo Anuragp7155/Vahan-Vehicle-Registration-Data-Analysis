@@ -40,6 +40,9 @@ The project transforms vehicle-registration data into actionable insights throug
 
 ---
 
+##Dashboard
+https://github.com/Anuragp7155/Vahan-Vehicle-Registration-Data-Analysis/blob/main/page1_fleet_overview.png?raw=true
+
 ## 🔄 Project Workflow
 
 ```text
@@ -64,4 +67,3 @@ Insights & Interpretation`
 
 
 
-![Image Alt](https://github.com/Anuragp7155/Ecommerce-sales-dashboard-powerbi/blob/main/EcommerceSalesBI_img.jpeg?raw=true)
