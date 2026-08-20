@@ -60,3 +60,8 @@ DAX Measures
 Interactive Dashboard
        ↓
 Insights & Interpretation`
+
+
+
+
+![Image Alt](https://github.com/Anuragp7155/Ecommerce-sales-dashboard-powerbi/blob/main/EcommerceSalesBI_img.jpeg?raw=true)
